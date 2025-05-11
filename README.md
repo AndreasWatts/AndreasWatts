@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I am Andreas 👋
 
-<!--
-**AndreasWatts/AndreasWatts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an end-to-end business intelligence & data consultant. I have extensive experience within business intelligence, data engineering, data analytics and data science. This is my GitHub portfolio, where I showcase projects that reflect my expertise in Python, SQL, Spark and more.
 
-Here are some ideas to get you started:
+## What You'll Find Here
+In this portfolio, you'll discover a collection of projects, including:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Data Analytics: I have extensive experience performing data analysis. Tools i use include: Excel, Power BI, Databricks, Fabric, SQL, Python & Jupyter Notebooks.
+
+Data Engineering: Data warehousing, data modelling, SQL, Python, Spark, Databricks, ETL/ELT, DBT and everything in between.
+
+Data Science and Machine Learning: I enjoy digging into data and creating predictive models. My data science projects often involve Python, data analysis, and machine learning.
+
+Business Intelligence: Data-architecture, frameworks, data visualisation, DAX, semantic layer and more.
