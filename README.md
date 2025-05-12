@@ -5,5 +5,3 @@ I am an end-to-end business intelligence & data consultant. I have extensive exp
 ### Get in Touch
 
 I'm always open to collaboration. Reach out to me on  [Linkedin](https://www.linkedin.com/in/andreas-watts/?locale=en_US).
-
-Thank you for visiting my portfolio. I hope you find my work inspiring and look forward to connecting with you.
