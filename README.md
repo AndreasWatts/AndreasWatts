@@ -4,4 +4,4 @@ I am an end-to-end business intelligence & data consultant. I have extensive exp
 
 ### Get in Touch
 
-I'm always open to collaboration. Reach out to me on  [Linkedin](https://www.linkedin.com/in/andreas-watts/?locale=en_US).
+I'm always open to collaborate. Reach out to me on  [Linkedin](https://www.linkedin.com/in/andreas-watts/?locale=en_US).
